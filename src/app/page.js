@@ -37,17 +37,17 @@ export default function Home() {
           className="flex flex-wrap items-center justify-center gap-8"
         >
           <FooterLink
-            href="https://nextjs.org/learn"
+            href="https://www.linkedin.com/in/monu-agrhari-255889323/"
             icon="/file.svg"
             text="Linkedin →"
           />
           <FooterLink
-            href="https://vercel.com/templates"
+            href="https://realtime-location-tracker-qmq4.onrender.com/"
             icon="/window.svg"
             text="Projects →"
           />
           <FooterLink
-            href="https://nextjs.org"
+            href="https://github.com/fsagrahari23"
             icon="/globe.svg"
             text="Github →"
           />

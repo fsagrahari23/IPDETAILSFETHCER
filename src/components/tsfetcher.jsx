@@ -142,6 +142,11 @@ export default function IPInfoDisplay() {
           </CardContent>
         </Card>
       )}
+      {!loading && !data && (
+        <div className="flex items-center justify-center h-32">
+          <h1 className="text-3xl font-bold">No results found</h1>
+        </div>
+      )}
     </motion.div>
   );
 }
